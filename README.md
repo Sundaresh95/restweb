@@ -1,4 +1,4 @@
-<img width="1918" height="1053" alt="440898697-d4ec0a2e-3a81-4409-9db6-9b63f3a79767" src="https://github.com/user-attachments/assets/bbb3689e-efb1-41eb-a349-2cb89bf96871" /># Ex.07 Restaurant Website
+# Ex.07 Restaurant Website
 ## Date:15/12/2025
 ## REf.No:25006077
 
